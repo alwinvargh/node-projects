@@ -30,7 +30,7 @@ To run CommunityCircle locally, follow these steps:
    ```bash
    cd communitycircle
    ```
-3. Install dependencies for both front-end and back-end:
+3.  Navigate to the both client and sever , Install dependencies for both :
    ```bash
    npm install
    ```
